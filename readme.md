@@ -1,0 +1,1 @@
+A 8 digit display using 7 segment displays and 2 74HC595 s 
